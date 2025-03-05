@@ -1,0 +1,6 @@
+id,nome,culinaria,bairro,cidade,avaliacao_media,tempo_medio_entrega,total_pedidos
+1,"Restaurante 1",Saudável,Vila Madalena,Porto Alegre,4.0,26,154
+2,"Restaurante 2",Árabe,Bela Vista,Curitiba,4.8,47,706
+3,"Restaurante 3",Fast Food,Jardim Paulista,Curitiba,3.5,58,118
+4,"Restaurante 4",Hambúrguer,Moema,Curitiba,4.6,35,285
+5,"Restaurante 5",Chinesa,Vila Madalena,Rio de Janeiro,3.7,44,162

@@ -1,0 +1,6 @@
+id,nome,cidade,bairro,data_cadastro,total_pedidos,valor_medio_pedido
+1,"Cliente 1",Curitiba,Moema,2025-02-28,19,64.92
+2,"Cliente 2",Belo Horizonte,Ipiranga,2025-02-24,45,38.33
+3,"Cliente 3",Porto Alegre,Centro,2024-12-16,1,52.60
+4,"Cliente 4",São Paulo,Moema,2025-01-07,48,92.76
+5,"Cliente 5",Rio de Janeiro,Bela Vista,2025-02-14,36,55.11

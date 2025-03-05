@@ -1,0 +1,6 @@
+id,cliente_id,restaurante_id,data,hora,valor_pedido,taxa_entrega,valor_total,status,metodo_pagamento,tempo_entrega,nota_cliente
+1,9,22,2025-02-09,16:44,85.73,6.05,91.78,Em preparo,Vale refeição,45,1
+2,52,50,2024-12-12,10:10,115.90,9.17,125.07,Cancelado,Vale refeição,39,2
+3,6,12,2024-12-27,18:33,117.99,14.33,132.32,Cancelado,Cartão de crédito,65,4
+4,40,26,2025-02-13,19:19,126.23,11.16,137.39,Entregue,PIX,85,5
+5,34,31,2025-01-13,14:21,71.27,15.02,86.29,Em preparo,Cartão de débito,68,3
